@@ -1,0 +1,29 @@
+.botoes {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 150px 0 150px;
+}
+
+button {
+  width:100%;
+  height:80px;
+  position:relative;
+  text-transform:uppercase;
+  font-weight:700;
+  letter-spacing:1px;
+  font-size:15px;
+  outline:none;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  cursor: pointer;
+  margin-bottom: 40px;
+}
+
+.conteudo {
+  display: flex;
+  justify-content: center;  
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
